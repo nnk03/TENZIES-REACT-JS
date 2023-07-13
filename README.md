@@ -1,2 +1,3 @@
 # TENZIES-REACT-JS
-Tenzies game developed using React JS
+
+This is a Tenzies Game developed using React JS. The deployed site can be found here.
